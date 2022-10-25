@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
-recording.webm
-voice_file.flac
+*.webm
+*.flac
+*.png
